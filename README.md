@@ -1,6 +1,6 @@
 # Battlefield2
 
-1) Unzip Battlefield_2
+1) Install: https://mega.nz/file/LeAwWDwB#c6gk2A2uKQvY4FvLjOUVIbo1q0ME0lOzTfKTWagDNLI   & Unzip
 2) Download BF2HUB to play online: https://www.bf2hub.com/home/downloads.php
 3) Install BF2HUB
 4) Open BF2HUB and configure the Battlefield folder path.
